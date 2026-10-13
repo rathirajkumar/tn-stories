@@ -1,0 +1,6 @@
+{
+  "name": "TN Stories - Discover Tamil Nadu Beyond the Ordinary",
+  "description": "Premium tourism application for exploring Tamil Nadu's destinations, heritage temples, hidden gems, cultural stories, and travel planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
